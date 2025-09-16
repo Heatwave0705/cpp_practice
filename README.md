@@ -1,0 +1,1 @@
+This is my journey of learning C++, the numbers in the beginning of the files indicate the order which I made them in. I posted this to github right as I finished the 6th mini-project because I thought it would be a good idea to document my journey.
