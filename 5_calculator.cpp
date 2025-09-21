@@ -22,4 +22,6 @@ int main() {
             std::cout << (num1 * num2);
             break;
     }
+
+    return 0;
 }

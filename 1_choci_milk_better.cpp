@@ -12,5 +12,6 @@ int main() {
     std::cout << goat << " is de goat" << '\n';
     std::cout << "Simply better" << std::endl;
     std::cout << reason;
+    
     return 0;
 }

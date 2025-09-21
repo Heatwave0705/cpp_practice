@@ -22,4 +22,6 @@ int main() {
         name.erase(0, 1);
         std::cout << name;
     }
+    
+    return 0;
 }

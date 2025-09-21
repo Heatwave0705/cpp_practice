@@ -14,4 +14,6 @@ int main() {
     
     c = sqrt(pow(a, 2) + pow (b, 2));
     std::cout << "The hypotnuse is " << c;
+
+    return 0;
 }

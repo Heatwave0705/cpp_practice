@@ -14,4 +14,6 @@ int main() {
     if (cloudy || rainy) {
         std::cout << "Its clowdy and/or rainy right now";
     }
+    
+    return 0;
 }

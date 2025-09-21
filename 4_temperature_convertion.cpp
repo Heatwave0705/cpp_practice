@@ -22,4 +22,6 @@ int main() {
     else{
         std::cout << "Please enter 'a' or 'b'";
     }
+
+    return 0;
 }

@@ -11,4 +11,6 @@ int main() {
     int rounded_price = 6;
 
     std::cout << name << " wants to buy a " << food << " which is option " << option << " of the menu, and costs exactly " << price << " or " << rounded_price << " rounded up";
+
+    return 0;
 }
